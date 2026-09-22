@@ -1,0 +1,15 @@
+node_modules/
+
+# Local course data
+/data/courses.json
+
+# Test output and temporary files
+coverage/
+test-results/
+.tmp/
+*.test.json
+
+# Local environment files
+.env
+.env.*
+!.env.example
